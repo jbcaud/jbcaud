@@ -1,11 +1,12 @@
-# Hi there, I'm Jacob Caudill 👋
+# Hey there, I'm Jacob Caudill 👋
 
-## I am a junior at the University of Alabama
+### I am currently a junior at the University of Alabama
 
+* I am majoring in computer science and minoring in mathematics
 * I am a member of ACM and the competitive programming team
 * Outside of school, I enjoy playing piano, streaming, and working on side projects
 
-### Languages, frameworks, libraries, and tools:
+## Languages, frameworks, libraries, and tools:
 <img align="left" alt="JAVA" height="40px" src="https://github.com/github/explore/blob/master/topics/java/java.png" />
 <img align="left" alt="C" height="40px" src="https://github.com/github/explore/raw/master/topics/c/c.png" />
 <img align="left" alt="C++" height="40px" src="https://github.com/github/explore/raw/master/topics/cpp/cpp.png" />
