@@ -1,6 +1,6 @@
 # Hey there, I'm Jacob Caudill 👋
 
-### I am currently a junior at the University of Alabama
+### I am currently a graduate student at the University of Alabama
 
 * I am majoring in computer science and minoring in mathematics
 * I am a member of ACM and the competitive programming team
