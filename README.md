@@ -1,20 +1,19 @@
 # Hey there, I'm Jacob Caudill 👋
 
-### I am currently a graduate student at the University of Alabama
+### I am currently a full-time software developer in Lexington, KY
 
-* I am majoring in computer science and minoring in mathematics
-* I am a member of ACM and the competitive programming team
-* Outside of school, I enjoy playing piano, streaming, and working on side projects
+* I graduated from the University of Alabama with my Master's Degree in Computer Science in 2022
+* Outside of work I enjoy going to the gym, playing video games, and playing piano!
 
 ## Languages, frameworks, libraries, and tools:
 
+<img align="left" alt="C++" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="C++" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="C++" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Matlab" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="JavaScript" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="QT" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/qt/qt.png" />
 <img align="left" alt="NodeJS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -29,7 +28,7 @@
 [<img align="left" alt="Jacob | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jacob | Email" width="30px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
-[linkedin]: https://www.linkedin.com/in/jacob-caudill-1349341b4/
+[linkedin]: https://www.linkedin.com/in/jbcaud/
 [email]: mailto:jbcaud@gmail.com
 
 <!--**jbcaud/jbcaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
